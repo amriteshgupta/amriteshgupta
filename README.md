@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/gupta_amritesh" target="blank"><img src="https://img.shields.io/twitter/follow/gupta_amritesh?logo=twitter&style=for-the-badge" alt="gupta_amritesh" /></a> </p>
 
-- 🔭 I’m currently working on **Acadia**
+- 🔭 I’m currently working on **RitvaBuild**
 
-- 🌱 I’m currently learning **JetPack Compose and Kotlin Multiplatform**
+- 🌱 I’m currently learning **Kotlin Multiplatform**
 
 - 👯 I’m looking to collaborate on **any android project**
 
