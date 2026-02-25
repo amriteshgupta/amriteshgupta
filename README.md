@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amritesh Gupta</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amriteshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="amriteshgupta" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amriteshgupta" alt="amriteshgupta" /></a> </p>
 
 <p align="left"> <a href="https://x.com/gupta_amritesh" target="blank"><img src="https://img.shields.io/twitter/follow/gupta_amritesh?logo=twitter&style=for-the-badge" alt="gupta_amritesh" /></a> </p>
